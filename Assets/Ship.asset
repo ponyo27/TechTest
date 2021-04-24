@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05155c4a963c2304c8aec079f558a124, type: 3}
+  m_Name: Ship
+  m_EditorClassIdentifier: 
+  ShipName: Highwind
+  Description: The fastest ship in the galaxy!
+  ShipModel: {fileID: 1170251797981118983, guid: 59121371afd276d469d52ea288bb6284, type: 3}
+  ExplosionEffect: {fileID: 6356245109563373681, guid: f4857d070e161d84d830a4b5bce056cd, type: 3}
+  Acceleration: 3
+  MaxVelocity: 1

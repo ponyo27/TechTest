@@ -149,10 +149,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 13901767}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3a5b967d390d3d74985c83b2713d2417, type: 3}
+  m_Script: {fileID: 11500000, guid: 66fadf2f6311cbe4f897710e358a89fb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Asteroid: {fileID: 5602269016041724563, guid: 9ff1ec5ba98b2294fa1c30896753c530, type: 3}
+  Asteroid: {fileID: 6482165808603007045, guid: 7555b7a4f4f85b842955242d0dcad451, type: 3}
 --- !u!4 &13901769
 Transform:
   m_ObjectHideFlags: 0
@@ -713,7 +713,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 685454495}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c8a0ed83a6a77e044a37f1a961e5d5c4, type: 3}
+  m_Script: {fileID: 11500000, guid: 25cfc1afcce2e6c4aaa7b7a67f0312f0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   PauseMenuUI: {fileID: 554759288}
@@ -2225,7 +2225,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1879396399}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 68af96b59ddfd194fbc6ffe19ab83aaa, type: 3}
+  m_Script: {fileID: 11500000, guid: 16689bfc72c9d76419c8bda3a467d964, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   Score: 0
@@ -2508,7 +2508,7 @@ PrefabInstance:
     - target: {fileID: 2770811582559141459, guid: 59121371afd276d469d52ea288bb6284, type: 3}
       propertyPath: data
       value: 
-      objectReference: {fileID: 11400000, guid: 34a5531c9d2434848a7e2506fe703d49, type: 2}
+      objectReference: {fileID: 11400000, guid: 68fec39fb42f2cc499d7d7833232bbeb, type: 2}
     - target: {fileID: 2770811582559141459, guid: 59121371afd276d469d52ea288bb6284, type: 3}
       propertyPath: Explosion
       value: 
